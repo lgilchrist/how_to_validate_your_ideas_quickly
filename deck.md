@@ -1,7 +1,3 @@
-# How to Validate Your Ideas Quickly
-##(And get your first users at the same time)
----
-
 # Hi! I'm Lauren
 ##(Today is my birthday!)
 
@@ -21,6 +17,13 @@
 - Agile development consultancy 
 - Rails, iOS, Android, Spring
 - Hiring Product, Design, and Full-Stack Engineers
+
+---
+
+#I'm Here To Teach You: 
+- Why You Need to Validate Your Ideas
+- How to Validate Quickly 
+- How to Get Users While You Validate
 
 ---
 
@@ -51,18 +54,20 @@
 ---
 
 #It's Not a Hackathon
+- More than 48 hrs
 - No API's
 - Focus on creating sustainable business
 
 ---
 
-#So Validating Is Important
-- Build something people want
-- Get users quickly
+#Validating Your Idea Is Important
+- Find user's pain 
+- Build something to fix it
+- Do it all very quickly 
 
 --- 
 
-#Validating Saves:
+#Validating Qucickly Saves:
 - Time
 - Money
 - Code
